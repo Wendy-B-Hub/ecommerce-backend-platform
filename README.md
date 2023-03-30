@@ -5,11 +5,11 @@
  
 ## basic feature
 
-list all product
-list searched product
-add new product
-edit product
-delete one/many product(s)
+- list all product
+- list searched product
+- add new product
+- edit product
+- delete one/many product(s)
 
 ## platform display
 
